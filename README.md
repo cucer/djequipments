@@ -1,6 +1,8 @@
 # Dj Products
 
-I created this fake api for djs and developers who wants to find information about dj products
+I created this fake api for djs and developers who wants to find information about dj products.
+
+You can modify or add new products to this API!
 
 ## How did I create?
 ```bash
