@@ -1,0 +1,14 @@
+{
+  "name": "djproducts",
+  "version": "1.0.0",
+  "description": "Fake REST API for djs",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch djproducts.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
