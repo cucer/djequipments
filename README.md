@@ -2,7 +2,7 @@
 
 I created this fake api for djs and developers who wants to find information about dj equipments.
 
-You can modify or add new products to this API!
+You can modify or add new products to this API for your projects!
 
 ## How did I create?
 ```bash
