@@ -1,6 +1,6 @@
 # Dj Products
 
-I created this fake api for djs and developers who wants to find information about dj products.
+I created this fake api for djs and developers who wants to find information about dj equipments.
 
 You can modify or add new products to this API!
 
@@ -19,4 +19,8 @@ git commit -m "First Commit"
 git remote add origin URL
 git remote
 git push -u origin master
+```
+## How to call server?
+```bash
+npm run json:server
 ```
