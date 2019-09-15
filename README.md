@@ -6,7 +6,7 @@ You can modify or add new products to this API!
 
 ## How did I create?
 ```bash
-mkdir djproducts
+mkdir djequipments
 npm init
 npm install --save json-server
 git init
