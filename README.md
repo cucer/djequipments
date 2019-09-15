@@ -1,4 +1,4 @@
-# Dj Products
+# Dj Equipments
 
 I created this fake api for djs and developers who wants to find information about dj equipments.
 
