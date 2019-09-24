@@ -11,7 +11,9 @@
             "outputs":"1 ANALOGUE (RCA), 1 Digital (Coaxial)",
             "usb":"1 USB A port, 1 USB B port",
             "playFormat":"ALAC, AAC, AIFF, FLAC, MP3, WAV, iOS version of rekordbox: MP3 and AAC only",
-            "fileSupport":"FAT, FAT32, HFS+"
+            "fileSupport":"FAT, FAT32, HFS+",
+            "starRating": 4.6,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"2",
@@ -24,7 +26,9 @@
             "outputs":"1 ANALOGUE (RCA), 1 Digital (Coaxial)",
             "usb":"1 USB A port, 1 USB B port",
             "playFormat":"ALAC, AAC, AIFF, FLAC, MP3, WAV, iOS version of rekordbox: MP3 and AAC only",
-            "fileSupport":"FAT, FAT32, HFS+"
+            "fileSupport":"FAT, FAT32, HFS+",
+            "starRating": 5,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"3",
@@ -37,7 +41,9 @@
             "outputs":"1 ANALOGUE (RCA), 1 S/PDIF Digital (RCA), 1 CONTROL (Mini-jack)",
             "usb":"",
             "playFormat":"AAC, AIFF, MP3 (MPEG-1 32Kbps - 320 Kbps, MPEG-2 16 Kbps - 160 Kbps), WAV",
-            "fileSupport":"FAT, FAT32, HFS+"
+            "fileSupport":"FAT, FAT32, HFS+",
+            "starRating": 4.8,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"4",
@@ -50,7 +56,9 @@
             "outputs":"1 ANALOGUE (RCA), 1 CONTROL (Mini-jack)",
             "usb":"",
             "playFormat":"AAC, AIFF, MP3 (MPEG-1 32Kbps - 320 Kbps, MPEG-2 16 Kbps - 160 Kbps), WAV",
-            "fileSupport":"FAT, FAT32, HFS+"
+            "fileSupport":"FAT, FAT32, HFS+",
+            "starRating": 4.6,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"5",
@@ -63,7 +71,9 @@
             "outputs":"1 ANALOGUE (RCA), 1 CONTROL (Mini-jack)",
             "usb":"",
             "playFormat":"AAC, AIFF, MP3 (MPEG-1 32Kbps - 320 Kbps, MPEG-2 16 Kbps - 160 Kbps), WAV",
-            "fileSupport":"FAT, FAT32, HFS+"
+            "fileSupport":"FAT, FAT32, HFS+",
+            "starRating": 4,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"6",
@@ -76,7 +86,9 @@
             "outputs":"1 ANALOGUE (RCA), 1 Digital (Coaxial)",
             "usb":"1 USB A port, 1 USB B port",
             "playFormat":"AAC, AIFF, MP3, WAV, ALAC, FLAC, iOS version of rekordbox: MP3 and AAC only",
-            "fileSupport":"FAT, FAT32, HFS+"
+            "fileSupport":"FAT, FAT32, HFS+",
+            "starRating": 4.5,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"7",
@@ -89,7 +101,9 @@
             "outputs":"1 ANALOGUE (RCA)",
             "usb":"1 USB A port, 1 USB B port",
             "playFormat":"AAC, AIFF, MP3, WAV, iOS version of rekordbox: MP3 and AAC only",
-            "fileSupport":"FAT, FAT32, HFS+"
+            "fileSupport":"FAT, FAT32, HFS+",
+            "starRating": 4.6,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"8",
@@ -102,7 +116,9 @@
             "outputs":"2 RCA output pairs, 2 coaxial digital outputs",
             "usb":"3 USB Type-A ports (for USB drives) (Rear-panel ports supply 900mA for USB 3.0 devices, 500 mA for USB 2.0 devices. Frontpanelport supplies 500 mA for USB 2.0 devices only.)",
             "playFormat":"AAC/M4A, AIF/AIFF (44.1–192 kHz, 16–32-bit), ALAC (44.1 - 192 kHz, 16-32-bit), FLAC (44.1 - 192 kHz, 16-24-bit), MP3 (32–320 kbps, VBR), MP4, Ogg Vorbis, WAV (44.1–192 kHz, 16–32-bit)",
-            "fileSupport":"exFAT, FAT32 (recommended)"
+            "fileSupport":"exFAT, FAT32 (recommended)",
+            "starRating": 4.5,
+            "url": "https://www.denondj.com"
         },
         {
             "id":"9",
@@ -115,7 +131,9 @@
             "outputs":"2 RCA output pairs, 2 coaxial digital outputs",
             "usb":"3 USB Type-A ports (for USB drives) (Rear-panel ports supply 900mA for USB 3.0 devices, 500 mA for USB 2.0 devices. Frontpanelport supplies 500 mA for USB 2.0 devices only.)",
             "playFormat":"AAC/M4A, AIF/AIFF (44.1–192 kHz, 16–32-bit), ALAC (44.1 - 192 kHz, 16-32-bit), FLAC (44.1 - 192 kHz, 16-24-bit), MP3 (32–320 kbps, VBR), MP4, Ogg Vorbis, WAV (44.1–192 kHz, 16–32-bit)",
-            "fileSupport":"exFAT, FAT32 (recommended)"
+            "fileSupport":"exFAT, FAT32 (recommended)",
+            "starRating": 4.5,
+            "url": "https://www.denondj.com"
         }                                                          
     ],
     "mixers":[
@@ -130,7 +148,9 @@
             "outputs":"2 MASTER (XLR, RCA), 1 BOOTH (XLR), 2 HEADPHONE MONITOR (1/4 inch Jack, mini-jack), 1 HEADPHONE MONITOR (1/4 inch Jack), 1 REC (RCA), 1 Digital (XLR)",
             "usb":"2 USB B ports, 1 USB A port",
             "channels":"4",
-            "effects":"Delay, Echo, Filter, Helix, Phaser, Ping Pong, Pitch, Slip Roll, Spiral, Reverb, Roll, Trans, Vinyl Brake, Crush, Dub Echo, Filter, Noise, Sweep, Space"
+            "effects":"Delay, Echo, Filter, Helix, Phaser, Ping Pong, Pitch, Slip Roll, Spiral, Reverb, Roll, Trans, Vinyl Brake, Crush, Dub Echo, Filter, Noise, Sweep, Space",
+            "starRating": 4.6,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"11",
@@ -143,7 +163,9 @@
             "outputs":"2 MASTER (XLR, RCA), 1 BOOTH (1/4 inch TRS Jack), 2 HEADPHONE MONITOR (1/4 inch Jack, mini-jack), 1 REC (RCA), 1 Digital (Coaxial)",
             "usb":"2 USB B ports, 1 USB A port",
             "channels":"4",
-            "effects":"Delay, Echo, Filter, Helix, Phaser, Ping Pong, Pitch, Slip Roll, Spiral, Reverb, Roll, Trans, Vinyl Brake, Crush, Dub Echo, Filter, Noise, Sweep, Space"
+            "effects":"Delay, Echo, Filter, Helix, Phaser, Ping Pong, Pitch, Slip Roll, Spiral, Reverb, Roll, Trans, Vinyl Brake, Crush, Dub Echo, Filter, Noise, Sweep, Space",
+            "starRating": 4.9,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"12",
@@ -156,7 +178,9 @@
             "outputs":"2 MASTER (XLR, RCA), 1 BOOTH (1/4 inch Jack), 2 HEADPHONE MONITOR (1/4 inch Jack, mini-jack)",
             "usb":"2 USB B ports",
             "channels":"2",
-            "effects":"Back Spin, Delay, Echo, Fader Synth Saw, Fader Synth Sine, Fader Synth Square, Flanger, HP Filter, LP Filter, Phaser, Reverb, Roll, Spiral, Trans, Vinyl Brake, Dub Echo, Filter, Noise, Pitch, Wide Filter"
+            "effects":"Back Spin, Delay, Echo, Fader Synth Saw, Fader Synth Sine, Fader Synth Square, Flanger, HP Filter, LP Filter, Phaser, Reverb, Roll, Spiral, Trans, Vinyl Brake, Dub Echo, Filter, Noise, Pitch, Wide Filter",
+            "starRating": 4.6,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"13",
@@ -169,7 +193,9 @@
             "outputs":"2 MASTER (XLR, RCA), 1 BOOTH (1/4 inch Jack), 2 HEADPHONE MONITOR (1/4 inch Jack, mini-jack)",
             "usb":"1 USB B port + 1 USB A port",
             "channels":"4",
-            "effects":"Delay, Echo, Flanger, Helix, Ping Pong, Pitch, Spiral, Reverb, Roll, Trans, Vinyl Brake, Dub Echo, Filter, Noise, Sweep"
+            "effects":"Delay, Echo, Flanger, Helix, Ping Pong, Pitch, Spiral, Reverb, Roll, Trans, Vinyl Brake, Dub Echo, Filter, Noise, Sweep",
+            "starRating": 4.8,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"14",
@@ -182,7 +208,9 @@
             "outputs":"1 MASTER (XLR), 1 MASTER (RCA), 2 HEADPHONE MONITOR (1/4 inch Jack, mini-jack)",
             "usb":"1 USB B port, 1 USB A port",
             "channels":"2",
-            "effects":"Delay, Echo, Spiral, Reverb, Trans, Flanger, Pitch, Roll, Dub Echo, Sweep, Noise, Filter"
+            "effects":"Delay, Echo, Spiral, Reverb, Trans, Flanger, Pitch, Roll, Dub Echo, Sweep, Noise, Filter",
+            "starRating": 4.4,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"15",
@@ -195,7 +223,9 @@
             "outputs":"1 HEADPHONE MONITOR (1/4 inch Jack), 2 CONTROL (Mini-jack), 2 MASTER (RCA)",
             "usb":"1 USB A port",
             "channels":"2",
-            "effects":"Crush, Filter, Gate, Jet"
+            "effects":"Crush, Filter, Gate, Jet",
+            "starRating": 4,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"16",
@@ -208,7 +238,9 @@
             "outputs":"1 MASTER (XLR), 1 MASTER (RCA), 2 HEADPHONE MONITOR (1/4 inch Jack, mini-jack)",
             "usb":"1 USB B port",
             "channels":"2",
-            "effects":"Filter"
+            "effects":"Filter",
+            "starRating": 4,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"17",
@@ -221,7 +253,9 @@
             "outputs":"1 MASTER (XLR), 1 MASTER (RCA), 2 HEADPHONE MONITOR (1/4 inch Jack, mini-jack)",
             "usb":"1 USB B port",
             "channels":"2",
-            "effects":"Filter"
+            "effects":"Filter",
+            "starRating": 4.4,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"18",
@@ -234,7 +268,9 @@
             "outputs":"2 XLR outputs (balanced master), 2 RCA output pairs (1 unbalanced master, 1 unbalanced record), 5 1/4” (6.35 mm) outputs (2 booth, 2 send, 1 headphone), 1 1/8” (3.5 mm) output (headphone), 1 coaxial digital output (audio), 1 5-pin DIN MIDI output",
             "usb":"2 USB audio connections",
             "channels":"4",
-            "effects":"Connect MIDI based effects and instruments"
+            "effects":"Connect MIDI based effects and instruments",
+            "starRating": 4.6,
+            "url": "https://www.denondj.com"
         },
         {
             "id":"19",
@@ -247,7 +283,9 @@
             "outputs":"1 x XLR (Balanced), 1 x 1/4″ TRS (Balanced), 1 x 1/4″ TRS (Balanced), 1 x RCA (Un-balanced)",
             "usb":"6 x USB (CH 1-4 + CH A – CH B)",
             "channels":"6 + 2",
-            "effects":"2 x VCF Filter, HPF / BPF / LPF, Adjustable Frequency & Resonance, Assignable CH 1-4 + CH A-B, CRUNCH (Controlled Harmonic Signal Distortion)"
+            "effects":"2 x VCF Filter, HPF / BPF / LPF, Adjustable Frequency & Resonance, Assignable CH 1-4 + CH A-B, CRUNCH (Controlled Harmonic Signal Distortion)",
+            "starRating": 4.5,
+            "url": "https://www.allen-heath.com/"
         }                                                          
     ],
     "controllers":[
@@ -264,7 +302,9 @@
             "channels":"4",
             "effects":"Echo, Multi Tap Delay, Spiral, Reverb, Trans, Flanger, Pitch, Slip Roll, Roll, ENIGMA JET, MOBIUS (SAW), MOBIUS (TRIANGLE), LOW CUT ECHO",
             "hotCues":"8",
-            "software":"Serato DJ"
+            "software":"Serato DJ",
+            "starRating": 4.8,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"21",
@@ -279,7 +319,9 @@
             "channels":"4",
             "effects":"Echo, Multi Tap Delay, Spiral, Reverb, Trans, Flanger, Pitch, Slip Roll, Roll, ENIGMA JET, MOBIUS (SAW), MOBIUS (TRIANGLE), LOW CUT ECHO",
             "hotCues":"8",
-            "software":"rekordbox dj"
+            "software":"rekordbox dj",
+            "starRating": 4.8,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"22",
@@ -294,7 +336,9 @@
             "channels":"2",
             "effects":"Echo, Multi Tap Delay, Spiral, Reverb, Trans, Flanger, Pitch, Slip Roll, Roll, ENIGMA JET, MOBIUS (SAW), MOBIUS (TRIANGLE), LOW CUT ECHO, Dub Echo, Filter, Noise, Pitch",
             "hotCues":"16",
-            "software":"rekordbox dj"
+            "software":"rekordbox dj",
+            "starRating": 4.5,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"23",
@@ -309,7 +353,9 @@
             "channels":"2",
             "effects":"Filter",
             "hotCues":"8",
-            "software":"rekordbox dj"
+            "software":"rekordbox dj",
+            "starRating": 4.3,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"24",
@@ -324,7 +370,9 @@
             "channels":"2",
             "effects":"CFX",
             "hotCues":"8",
-            "software":"WeDJ (iPhone/Android), rekordbox (PC/Mac), djay (iPhone/iPad), edjing Mix (iPhone/iPad/Android)"
+            "software":"WeDJ (iPhone/Android), rekordbox (PC/Mac), djay (iPhone/iPad), edjing Mix (iPhone/iPad/Android)",
+            "starRating": 3.6,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"25",
@@ -339,7 +387,9 @@
             "channels":"4",
             "effects":"Crush, Echo, Filter, Jet, Pitch, Space",
             "hotCues":"8",
-            "software":"rekordbox dj"
+            "software":"rekordbox dj",
+            "starRating": 4.2,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"26",
@@ -354,7 +404,9 @@
             "channels":"4",
             "effects":"Back spin, Echo, Vinyl brake, Filter, Jet, Pitch, Space",
             "hotCues":"8",
-            "software":"rekordbox dj"
+            "software":"rekordbox dj",
+            "starRating": 4,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"27",
@@ -369,7 +421,9 @@
             "channels":"4",
             "effects":"Echo, Jet, Pitch, Filter",
             "hotCues":"8",
-            "software":"Serato DJ"
+            "software":"Serato DJ",
+            "starRating": 4.1,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"28",
@@ -384,7 +438,9 @@
             "channels":"4",
             "effects":"Echo, Jet, Pitch, Filter",
             "hotCues":"8",
-            "software":"Serato DJ"
+            "software":"Serato DJ",
+            "starRating": 4.2,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"29",
@@ -399,7 +455,9 @@
             "channels":"2",
             "effects":"Filter, FX",
             "hotCues":"8",
-            "software":"Serato DJ"
+            "software":"Serato DJ",
+            "starRating": 4.2,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"30",
@@ -414,7 +472,9 @@
             "channels":"2",
             "effects":"Filter, FX",
             "hotCues":"8",
-            "software":"Serato DJ"
+            "software":"Serato DJ",
+            "starRating": 4,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"31",
@@ -429,7 +489,9 @@
             "channels":"2",
             "effects":"Filter, FX",
             "hotCues":"4",
-            "software":"Serato DJ"
+            "software":"Serato DJ",
+            "starRating": 4.3,
+            "url": "https://www.denondj.com"
         },
         {
             "id":"32",
@@ -444,7 +506,9 @@
             "channels":"4",
             "effects":"Filter, FX",
             "hotCues":"8",
-            "software":"Serato DJ"
+            "software":"Serato DJ",
+            "starRating": 4.4,
+            "url": "https://www.denondj.com"
         },
         {
             "id":"33",
@@ -459,7 +523,9 @@
             "channels":"4",
             "effects":"Filter, FX",
             "hotCues":"8",
-            "software":"Serato DJ"
+            "software":"Serato DJ",
+            "starRating": 4.5,
+            "url": "https://www.denondj.com"
         }                                                                                                  
     ],
     "turntables":[
@@ -473,7 +539,9 @@
             "outputs":"1 ANALOGUE (RCA)",
             "arm":"Universal type S-shape tone arm, Gimbal-supported type bearing structure, Static balance type",
             "motor":"Quartz lock, servo-type, direct drive",
-            "turque":"4.5 kgf/cm"
+            "torque":"4.5 kgf/cm",
+            "starRating": 4.8,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"35",
@@ -485,7 +553,9 @@
             "outputs":"1 PHONO/LINE (RCA)",
             "arm":"Universal type S-shape tone arm, Gimbal-supported type bearing structure, Static balance type",
             "motor":"Servo-type direct drive",
-            "turque":"1.6 kgf/cm"
+            "torque":"1.6 kgf/cm",
+            "starRating": 4.5,
+            "url": "https://www.pioneerdj.com"
         },
         {
             "id":"36",
@@ -497,7 +567,9 @@
             "outputs":"2 RCA outputs (1 stereo pair)",
             "arm":"Effective Length: 9.4” / 238 mm, Overhang: 1.0” / 25 mm, Offset Angle: 20.5°",
             "motor":"Quartz direct-drive",
-            "turque":"5 kgf/cm"
+            "torque":"5 kgf/cm",
+            "starRating": 4.8,
+            "url": "https://www.denondj.com"
         }                
     ]          
 }
