@@ -2,9 +2,10 @@
 
 I created this fake api for djs and developers who wants to find information about dj equipments.
 
-You can modify or add new products to this API for your projects!
+You can modify or add new products for test!
 
-## How did I create?
+## NPM and GIT init?
+
 ```bash
 mkdir djequipments
 npm init
@@ -20,12 +21,15 @@ git remote add origin URL
 git remote
 git push -u origin master
 ```
+
 ## How to call json server?
+
 ```bash
 npm run json:server
 ```
 
 ## How to call equipments from Fake REST API
+
 ```bash
 Get Single Products
 http://localhost:3000/players/1
