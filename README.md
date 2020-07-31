@@ -2,24 +2,12 @@
 
 I created this fake api for djs and developers who wants to find information about dj equipments.
 
-You can modify or add new products for test!
+You can modify or add new products
 
-## NPM and GIT init?
+## NPM
 
 ```bash
-mkdir djequipments
-npm init
-npm install --save json-server
-git init
-git config --global user.name 'XXX YYY'
-git config --global user.mail 'xx.yy@xmail.com'
-touch .gitignore
-echo node_modules/ >> .gitignore
-git add .
-git commit -m "First Commit"
-git remote add origin URL
-git remote
-git push -u origin master
+npm install
 ```
 
 ## How to call json server?
